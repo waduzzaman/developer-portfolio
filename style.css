@@ -25,7 +25,14 @@ section {
 
 .link-btn {
     text-decoration: none;
-    background-color: orange;
-    padding: 5px 10px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
     border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
