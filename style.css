@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-btn {
+    text-decoration: none;
+    background-color: orange;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
